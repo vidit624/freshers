@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+	border:none;
+}
+body{
+	background-image: url('pic3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	background-position: center;	
+	font-family: 'Crimson Text', serif;
+	transition: all 3s ease-in-out;
+
+}
+.contact-welcome {
+	margin-top: 70px;
+	text-transform: uppercase; 
+	
+}
+.contact-welcome h1{
+	
+	font-size: 40px;
+}
+.contact-welcome1{
+	font-size: 100px;
+}
+.contact-freshers{
+
+	font-size: 40px;
+}
+.contact-div-form{
+	margin-top: 40px;
+	margin-bottom: 0;
+	margin-left: 37%;	
+	max-width: 50%;
+	align-items: center;
+	position: relative;
+}
+.contact-form-detail{
+	text-align: left;
+}
+.contact-form{
+	text-align: left;
+	margin-top: 30px; 
+	transition: all 3s ease-in-out;
+
+}
+.contact-form h2{
+	text-align: center;
+	margin-top:10px;
+	margin-bottom: 10px;  
+}
+.contact-input{
+	width: 40%;
+	margin-bottom: 16px;
+	height: 27px;
+	border-radius: 10px;
+}
+.contact-input1{
+	margin-bottom: 16px;
+	margin-top: 16px;
+}
+.contact-select{
+	margin-left: 19%;
+	font-size: 15px;
+	border-radius: 10px;
+}
+.input1{
+	margin-left: 14.5%; 
+}
+.input2{
+	margin-left: 11%; 
+}
+.input3{
+	margin-left: 8%; 
+}
+.input4{
+	margin-left: 6%; 
+}
+.input5{
+	margin-left: 15%;
+	min-height: 50px;
+}
+.contact-title{
+	display: inline-block;
+	margin-right: 5%;
+	font-size: 21px;
+}
+.title1{
+	margin-left: 15%;
+}
+.title2{
+	margin-left: 15%;
+}
+.contact-submit{
+	background: #ff5722;
+	width: 25%;
+	font-family: 'Crimson Text', serif;
+	font-weight: 700;
+	font-size: 25px;
+	border-radius: 15px;
+	margin-bottom: 10px;
+}
+.contact-heading{
+	font-size: 22px;
+}
+
+
